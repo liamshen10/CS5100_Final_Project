@@ -3,3 +3,5 @@ The dataset is too large to upload to github, so here is the link to it on kaggl
 https://www.kaggle.com/datasets/maxhorowitz/nflplaybyplay2009to2016 
 
 We used the 2009-2018 version, as there are 3 versions from 2009-2016, 2009-2017, 2009-2018
+
+NOTE: In order to run the LSTM model, you need to download the dataset from Kaggle
