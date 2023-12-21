@@ -1,4 +1,4 @@
-# CS5100_Final_Project
+# Predictive Modeling of NFL Play Calls Using Machine Learning and AI Techniques
 
 Note: The Q-Learning and Decision Tree Classifier, along with the Dataset used is on the main page. 
 The Long Short Term Memory Neural Network code is in an ipynb file within the LSTM folder.
